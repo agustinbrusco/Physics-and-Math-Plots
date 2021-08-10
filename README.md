@@ -12,6 +12,7 @@ En cada materia que curso trato de tomarme un momento para llevar a código y vi
 ![Sucesiones](https://user-images.githubusercontent.com/55212710/128412593-aacf216e-2b88-41ed-8aa6-a0c078029204.png)
 ### Campos Vectoriales y Escalares <img src="https://render.githubusercontent.com/render/math?math=\LARGE\quad \vec{F}:\mathbb{R}^3\to\mathbb{R}^3, \quad f:\mathbb{R}^3\to\mathbb{R}">
 ![Magnetic_vector_potential](https://user-images.githubusercontent.com/55212710/128412867-e6769dea-55ae-4754-8b0b-fc65593476a0.png)
-![Método_de_imagenes_esfera](https://user-images.githubusercontent.com/55212710/128413569-da8228d8-0755-4ed6-ba17-02feb1507b6f.png)
-![Método_de_imagenes_plano](https://user-images.githubusercontent.com/55212710/128415379-c140ff1d-6fc6-4c06-ba98-bfc3854eeb1c.png)
+![Método_de_imagenes_esfera_3D](https://user-images.githubusercontent.com/55212710/128413569-da8228d8-0755-4ed6-ba17-02feb1507b6f.png)
+![Método_de_imagenes_esfera_2D](https://user-images.githubusercontent.com/55212710/128810532-31002030-18b8-4c6d-87b0-64fbd8347d8b.png)
+![Campo_eléctrico_cilindro](https://user-images.githubusercontent.com/55212710/128810783-ad95ff36-48e3-4ac5-9ffd-8106d36c1a5a.png)
 
